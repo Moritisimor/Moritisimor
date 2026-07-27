@@ -1,16 +1,55 @@
-## Hi there 👋
+# Moritisimor
 
-<!--
-**Moritisimor/Moritisimor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
+![Python Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Rust Badge](https://img.shields.io/badge/Rust-121212?style=for-the-badge&logo=rust&logoColor=white)
+![C Badge](https://img.shields.io/badge/C-121212?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+![OCaml Badge](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff&style=for-the-badge)
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=Moritisimor&style=flat-square&color=grey)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Who am I?
+I am a hobby developer from Germany.
+
+I mainly use Go, Python and Rust, but I know other languages as well, such as JavaScript, Java and a bit of C.
+
+You can contact me at `devMoritisimor@proton.me`
+
+## My best projects
+### [RFetch](https://github.com/Moritisimor/rfetch)
+A rather simple CLI HTTP Client written in Rust.
+
+I made it primarily for my own workflows when calling APIs. 
+
+It's primarily supposed to be a simple-to-use CLI HTTP Client for working with JSON-based RESTful APIs.
+
+However, it can of course be used for other things.
+
+### [HexFlex](https://github.com/Moritisimor/hexflex)
+CLI-based Hex Editor written in Rust.
+
+Kind of reverse-engineering light. Although it's definetely not as powerful as other reverse-engineering/decompilation tools, HexFlex is simpler and easier to get started with.
+
+It doesn't make assumptions about the file you're viewing. You just get raw bytes and some commands for viewing, querying and manipulating raw bytes.
+
+### [Neo-Ed](https://github.com/Moritisimor/Neo-Ed)
+My own take on line-based editing, written in Go.
+
+Inspired by the original UNIX editor ed, but with a more modern, intuitive interface and more helpful error messages.
+
+### [SaturnJS](https://github.com/Moritisimor/SaturnJS)
+A Goja-based JavaScript runtime that's not made for running on a browser or on a server. 
+
+Instead, it's kinda like Perl, mainly made for System-scripting.
+
+It includes a library for making HTTP Requests, interacting with SQLite databases, colorizing strings, terminal-based I/O and more to come in the future.
+
+### [MoleculeVM](https://github.com/KokoFlexxImor/MoleculeVM)
+A joint project consisting of me and [RobertFlexx](https://github.com/RobertFlexx).
+
+This Virtual Machine was started by me as a small project. The goal was simple: a tiny, 8-bit based Stack-Machine in C.
+
+However, Robert, being the pioneer he is, massively expanded the project, adding 16-bit and even 32-bit extensions, as well as a compiler for a whole language.
+
+Though I am not as actively involved in the project anymore, I did write the disassembler in OCaml later on.
