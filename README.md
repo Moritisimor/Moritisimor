@@ -45,6 +45,15 @@ Instead, it's kinda like Perl, mainly made for System-scripting.
 
 It includes a library for making HTTP Requests, interacting with SQLite databases, colorizing strings, terminal-based I/O and more to come in the future.
 
+### [Open-TTS-App](https://github.com/Moritisimor/Open-TTS-App)
+A very simple web application for synthesizing speech from text.
+
+Its backend is written in Python using the FastAPI framework for the REST API and PiperTTS for speech synthesis.
+
+The frontend is written in Vanilla JavaScript. Not every app needs a framework.
+
+You can also pull it as a docker image and easily run it locally.
+
 ### [MoleculeVM](https://github.com/KokoFlexxImor/MoleculeVM)
 A joint project consisting of me and [RobertFlexx](https://github.com/RobertFlexx).
 
