@@ -5,7 +5,7 @@
 ![Rust Badge](https://img.shields.io/badge/Rust-121212?style=for-the-badge&logo=rust&logoColor=white)
 ![C Badge](https://img.shields.io/badge/C-121212?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
-![OCaml Badge](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff&style=for-the-badge)
+![Ocaml Badge](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff&style=for-the-badge)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Moritisimor&style=flat-square&color=grey)
 
@@ -17,6 +17,17 @@ I mainly use Go, Python and Rust, but I know other languages as well, such as Ja
 You can contact me at `devMoritisimor@proton.me`
 
 ## My best projects
+### [nomad-lisp](https://github.com/Moritisimor/nomad-lisp)
+An interpreter for my own LISP dialect written in Ocaml.
+
+Arguably my coolest and biggest project so far.
+
+Nomad is a LISP-like language that is currently being heavily developed.
+
+In its current state it supports lexically-scoped closures, higher order functions, and thus currying, as well as recursion, which is the default way of looping.
+
+It's not finished yet but in a usable state.
+
 ### [RFetch](https://github.com/Moritisimor/rfetch)
 A rather simple CLI HTTP Client written in Rust.
 
@@ -29,7 +40,7 @@ However, it can of course be used for other things.
 ### [HexFlex](https://github.com/Moritisimor/hexflex)
 CLI-based Hex Editor written in Rust.
 
-Kind of reverse-engineering light. Although it's definetely not as powerful as other reverse-engineering/decompilation tools, HexFlex is simpler and easier to get started with.
+Kind of reverse-engineering light. Although it's definitely not as powerful as other reverse-engineering/decompilation tools, HexFlex is simpler and easier to get started with.
 
 It doesn't make assumptions about the file you're viewing. You just get raw bytes and some commands for viewing, querying and manipulating raw bytes.
 
