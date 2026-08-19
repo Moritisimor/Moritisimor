@@ -1,11 +1,11 @@
 # Moritisimor
 
 ![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
-![Python Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Ocaml Badge](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff&style=for-the-badge)
 ![Rust Badge](https://img.shields.io/badge/Rust-121212?style=for-the-badge&logo=rust&logoColor=white)
+![Python Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C Badge](https://img.shields.io/badge/C-121212?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
-![Ocaml Badge](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff&style=for-the-badge)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Moritisimor&style=flat-square&color=grey)
 
@@ -22,11 +22,11 @@ An interpreter for my own LISP dialect written in Ocaml.
 
 Arguably my coolest and biggest project so far.
 
-Nomad is a LISP-like language that is currently being heavily developed.
+Nomad is a Lisp-like language with a focus on simplicity. 
 
-In its current state it supports lexically-scoped closures, higher order functions, and thus currying, as well as recursion, which is the default way of looping.
+The reference implementation in OCaml is remarkably simple, and, as such, the parser is only 40 lines of code.
 
-It's not finished yet but in a usable state.
+It supports lexically-scoped closures, higher order functions, and thus currying, as well as recursion, which is the default way of looping.
 
 ### [RFetch](https://github.com/Moritisimor/rfetch)
 A rather simple CLI HTTP Client written in Rust.
