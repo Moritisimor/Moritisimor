@@ -28,6 +28,10 @@ The reference implementation in OCaml is remarkably simple, and, as such, the pa
 
 It supports lexically-scoped closures, higher order functions, and thus currying, as well as recursion, which is the default way of looping.
 
+There are also other implementations of it:
+- [gomad](https://github.com/Moritisimor/gomad)
+- [romad](https://github.com/robertflexx/romad)
+
 ### [RFetch](https://github.com/Moritisimor/rfetch)
 A rather simple CLI HTTP Client written in Rust.
 
