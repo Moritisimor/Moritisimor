@@ -31,6 +31,7 @@ It supports lexically-scoped closures, higher order functions, and thus currying
 There are also other implementations of it:
 - [gomad](https://github.com/Moritisimor/gomad)
 - [romad](https://github.com/robertflexx/romad)
+- [bomad](https://github.com/robertflexx/bomad)
 
 ### [RFetch](https://github.com/Moritisimor/rfetch)
 A rather simple CLI HTTP Client written in Rust.
