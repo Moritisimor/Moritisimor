@@ -32,6 +32,8 @@ There are also other implementations of it:
 - [gomad](https://github.com/Moritisimor/gomad)
 - [romad](https://github.com/robertflexx/romad)
 - [bomad](https://github.com/robertflexx/bomad)
+- [jomad](https://github.com/Moritisimor/jomad)
+- [madBeef](https://github.com/RobertFlexx/madbeef)
 
 ### [RFetch](https://github.com/Moritisimor/rfetch)
 A rather simple CLI HTTP Client written in Rust.
